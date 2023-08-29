@@ -1,0 +1,8 @@
+StripedPandaStudios/Chat/Chat/services/WorkoutService.class
+StripedPandaStudios/Chat/Chat/controllers/AuthController.class
+StripedPandaStudios/Chat/Chat/controllers/ChatController.class
+StripedPandaStudios/Chat/Chat/Models/Message.class
+StripedPandaStudios/Chat/Chat/repositories/MessageRepository.class
+StripedPandaStudios/Chat/Chat/ChatApplication.class
+StripedPandaStudios/Chat/Chat/config/SecurityConfig.class
+StripedPandaStudios/Chat/Chat/Models/User.class

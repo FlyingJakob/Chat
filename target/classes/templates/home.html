@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="home-styles.css">
+  <title>Chat</title>
+</head>
+<body>
+<div class="chat-container">
+  <div class="chat-header">
+    <h1>Chat</h1>
+  </div>
+  <div class="chat-messages">
+
+    <div class="chat-messages">
+      <div th:each="message : ${messages}">
+        <div class="message"
+             th:classappend="${message.senderId} == ${id} ? 'me' : 'others'"
+             th:if="${message.sender} != null and ${username} != null">
+          <p class="sender-name" th:text="${message.sender}"></p>
+          <p th:text="${message.text}"></p>
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+  <div class="chat-input">
+    <form id="message-form" th:action="@{/sendMessage}" method="post">
+      <input type="text" id="message" name="message" placeholder="Type your message here..." autocomplete="off" required>
+      <button type="submit">Send</button>
+    </form>
+  </div>
+
+</div>
+</body>
+</html>

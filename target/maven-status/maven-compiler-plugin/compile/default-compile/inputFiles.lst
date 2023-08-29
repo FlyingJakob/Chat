@@ -1,8 +1,8 @@
-/Users/jakobforsbacka/Documents/Gitea/Chat/src/main/java/StripedPandaStudios/Chat/Chat/repositories/MessageRepository.java
-/Users/jakobforsbacka/Documents/Gitea/Chat/src/main/java/StripedPandaStudios/Chat/Chat/controllers/ChatController.java
-/Users/jakobforsbacka/Documents/Gitea/Chat/src/main/java/StripedPandaStudios/Chat/Chat/Models/User.java
-/Users/jakobforsbacka/Documents/Gitea/Chat/src/main/java/StripedPandaStudios/Chat/Chat/controllers/AuthController.java
-/Users/jakobforsbacka/Documents/Gitea/Chat/src/main/java/StripedPandaStudios/Chat/Chat/services/WorkoutService.java
-/Users/jakobforsbacka/Documents/Gitea/Chat/src/main/java/StripedPandaStudios/Chat/Chat/config/SecurityConfig.java
-/Users/jakobforsbacka/Documents/Gitea/Chat/src/main/java/StripedPandaStudios/Chat/Chat/ChatApplication.java
-/Users/jakobforsbacka/Documents/Gitea/Chat/src/main/java/StripedPandaStudios/Chat/Chat/Models/Message.java
+/Users/jakobforsbacka/Documents/GitHub/Chat/src/main/java/StripedPandaStudios/Chat/Chat/repositories/MessageRepository.java
+/Users/jakobforsbacka/Documents/GitHub/Chat/src/main/java/StripedPandaStudios/Chat/Chat/ChatApplication.java
+/Users/jakobforsbacka/Documents/GitHub/Chat/src/main/java/StripedPandaStudios/Chat/Chat/services/WorkoutService.java
+/Users/jakobforsbacka/Documents/GitHub/Chat/src/main/java/StripedPandaStudios/Chat/Chat/controllers/AuthController.java
+/Users/jakobforsbacka/Documents/GitHub/Chat/src/main/java/StripedPandaStudios/Chat/Chat/Models/User.java
+/Users/jakobforsbacka/Documents/GitHub/Chat/src/main/java/StripedPandaStudios/Chat/Chat/config/SecurityConfig.java
+/Users/jakobforsbacka/Documents/GitHub/Chat/src/main/java/StripedPandaStudios/Chat/Chat/Models/Message.java
+/Users/jakobforsbacka/Documents/GitHub/Chat/src/main/java/StripedPandaStudios/Chat/Chat/controllers/ChatController.java
